@@ -1,4 +1,7 @@
 = Antora Default UI
+
+NOTE: Cloned from https://gitlab.com/antora/antora-ui-default @ `661214e383fad7c9e0c1ff1f7365703f101cffc9`
+
 // Settings:
 :experimental:
 :hide-uri-scheme:
