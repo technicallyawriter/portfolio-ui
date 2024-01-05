@@ -1,5 +1,6 @@
 :root {
   /* colors */
+  --red: #ff0000; 
   --color-white: #000;
   --color-smoke-10: #fefefe;
   --color-smoke-30: #fafafa;
@@ -29,7 +30,7 @@
   --monospace-font-family: "Roboto Mono", monospace;
   --monospace-font-weight-bold: 600;
   /* base */
-  --body-background: var(--color-white);
+  --body-background: var(--red);
   --panel-background: var(--color-smoke-30);
   --panel-border-color: var(--color-smoke-90);
   --scrollbar-track-color: var(--color-smoke-30);
