@@ -2,7 +2,7 @@
 
 Cloned from https://gitlab.com/antora/antora-ui-default @ `661214e383fad7c9e0c1ff1f7365703f101cffc9`
 
-`Main` branch is locked because this [portfolio site's]() playbook grabs the lastest from main branch in this repoat `/build/ui-bundle.zip`. If you wish to make UI changes, branch off main and open a pull request.
+`Main` branch is locked because link:https://github.com/technicallyawriter/portfolio[this playbook] grabs the lastest UI bundle from main branch in this repo (`/build/ui-bundle.zip`). If you wish to make UI changes, branch off main and open a pull request.
 
 ***
 
